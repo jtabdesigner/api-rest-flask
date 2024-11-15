@@ -1,0 +1,11 @@
+# Ignorar o diretório do ambiente virtual
+venv/
+
+# Ignorar diretórios de cache e compilação
+__pycache__/
+instance/
+.mypy_cache/
+.pytest_cache/
+
+# Ignorar arquivos de banco de dados de migração
+migrations/
